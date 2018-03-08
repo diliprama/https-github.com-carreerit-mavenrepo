@@ -66,10 +66,4 @@ public class Student {
 	public void setYearPassed(String yearPassed) {
 		this.yearPassed = yearPassed;
 	}
-public void setYearPassed(String yearPassed) {
-		this.yearPassed = yearPassed;
-	
-}public void setPercentage(String percentage) {
-		this.percentage = percentage;
- public void setPercentage(String percentage) {
-		this.percentage = percentage;
+}
